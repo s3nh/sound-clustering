@@ -1,0 +1,5 @@
+Kmeans: 
+    n_clusters : 2
+    n_init : 128
+    init : 'k-means++'
+    max_iter : 5120

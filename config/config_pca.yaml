@@ -1,0 +1,2 @@
+FILEPATH : 'data/pca_data_scaled.pkl'
+PCA_OBJ : 'data/pca_obj_scaled.pkl'
